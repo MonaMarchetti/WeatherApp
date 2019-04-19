@@ -48,7 +48,7 @@ Lien vers les mock-up figma : <https://www.figma.com/file/WgaQ2gbEZWpum2ETClKYOq
 
 ## Crédits photos :
 
-Les illustrations proviennent du site ![pixabay](<https://pixabay.com>)  
+Les illustrations proviennent du [site pixabay](https://pixabay.com)  
 
 Illustratrice: Wild0ne : <https://pixabay.com/users/wild0ne-920941/>
 
