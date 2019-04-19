@@ -28,7 +28,7 @@ Réalisé entre le 2 et le 5 mars 2019, en tant que stagiaire @ BeCode
 
 ## API utilisée :
 
-Lien de l'API : <https://openweathermap.org/api>
+Lien vers l'API d'openweathermap : <https://openweathermap.org/api>
 
 ## Progression :
 
@@ -48,9 +48,9 @@ Lien vers les mock-up figma : <https://www.figma.com/file/WgaQ2gbEZWpum2ETClKYOq
 
 ## Crédits photos :
 
-Les illustrations proviennent du site pixabay : <https://pixabay.com>. Voici le nom de l'illustrateur:
+Les illustrations proviennent du site ![pixabay](<https://pixabay.com>)  
 
-+ Wild0ne / M. Maggs  •  Canada / profile pixabay :https://pixabay.com/users/wild0ne-920941/
+Illustratrice: Wild0ne : <https://pixabay.com/users/wild0ne-920941/>
 
 
 
