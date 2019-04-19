@@ -23,12 +23,12 @@ Réalisé entre le 2 et le 5 mars 2019, en tant que stagiaire @ BeCode
 
 ## Framework utilisé :
 
-+ vue.js
++ Vue.js
 + Bootstrap
 
 ## API utilisée :
 
-Lien vers l'API d'openweathermap : <https://openweathermap.org/api>
+[L'API d'openweathermap](https://openweathermap.org/api)
 
 ## Progression :
 
@@ -36,11 +36,11 @@ Projet terminé
 
 ## Liens utiles :
 
-Lien vers les consignes : <https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Mets-Tes-Hauts>
+[Les consignes](https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Mets-Tes-Hauts)
 
-Lien vers la github page : <https://dorianbec.github.io/mes-tes-haut/>
+[La github page](https://dorianbec.github.io/mes-tes-haut/)
 
-Lien vers les mock-up figma : <https://www.figma.com/file/WgaQ2gbEZWpum2ETClKYOqkZ/mockUp01?node-id=5%3A3>
+[Les mock-up figma](https://www.figma.com/file/WgaQ2gbEZWpum2ETClKYOqkZ/mockUp01?node-id=5%3A3)
 
 ## Aperçu du site :
 
@@ -50,7 +50,7 @@ Lien vers les mock-up figma : <https://www.figma.com/file/WgaQ2gbEZWpum2ETClKYOq
 
 Les illustrations proviennent du [site pixabay](https://pixabay.com)  
 
-Illustratrice: Wild0ne : <https://pixabay.com/users/wild0ne-920941/>
+Illustratrice: [Wild0ne](https://pixabay.com/users/wild0ne-920941)
 
 
 
