@@ -1,4 +1,4 @@
-# Appli météo
+# Application météo
 
 Mon premier projet utilisant vue.js et les API
 
